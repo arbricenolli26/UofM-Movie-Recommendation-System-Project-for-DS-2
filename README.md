@@ -1,6 +1,6 @@
 # UM-D-Movie-Recommendation-System-Project-for-DS-2
 Movie Recommendation System Project for DS 2
 
-Collaborated on a predictive modeling project using JMP Pro and Tableau to identify high-risk lead service lines in Flint and optimize infrastructure replacement efforts. Developed and compared classification models including logistic regression, CART, bootstrap, neural networks, and boosted trees, achieving a 0.9692 validation AUC.
+Collaborated with a team to develop and evaluate a movie recommendation system using the MovieLens 20M dataset. Explored non-personalized, content-based, hybrid, and collaborative filtering approaches, achieving a 0.93 RMSE for rating prediction.
 
-Conducted feature selection and model evaluation using predictor screening, CART importance scores, AUC, misclassification rate, and overfitting analysis. Identified key risk factors including service line type, year built, census tract, and hydrant type, and visualized high-risk areas using Tableau.
+Contributed to recommendation algorithm development by researching and coding content-based, hybrid, and collaborative filtering methods using genre-based features, user preference modeling, normalized ratings, and cosine similarity to generate personalized recommendations.
